@@ -1,5 +1,5 @@
 # Desafio Golang
-Criação de imagem golang docker com 2MB
+Criação de imagem docker golang com 1.94MB
 
 ### Reposítório da imagem docker
 
